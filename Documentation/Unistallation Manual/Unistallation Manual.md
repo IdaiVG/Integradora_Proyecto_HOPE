@@ -9,16 +9,15 @@
 7. Eliminación de la Base de Datos.
 8. Cancelación de Hosting y Dominio.
 9. Notificación a clientes y usuarios.
+***
 
-
-
-**Introducción**
+1. **Introducción**
 <p align = "justify">
 Este manual se ha creado con el fin de proporcionar una guía detallada para la eliminación de HOPE nuestra página web.</p>
 <p align ="justify">Esto con el fin de que se tenga una vista más detallada de todo el proceso que se debe realizar para la eliminación completa, en este manual se mostrará, el respaldo de datos, la desactivación de plugins y eliminación de datos.</p>
 
 
-**Objetivo**
+2. **Objetivo**
 <p align = "justify">Este manual funge como una guía integral para la eliminación correcta y efectiva de está pagina web, asegurando que todos los datos importantes estaran respaldados y no se filtrara ninguno de estos.</p>
 
 3. **Respaldo de datos:** se debe realizar una copia de seguridad, para ello se debe instalar un plugin que permita respaldar los datos "UpdraftPlus", es un plugin que nos puede permitir realizar esta acción. para un mejor respaldo, se debe descargar el respaldo y posteriormente guardarlo en un pc, o memoria, para tener un mejor respaldo de los datos.
