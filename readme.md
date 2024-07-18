@@ -25,17 +25,18 @@ crear una pagina web que ayude a las personas sin hogar a encontrar uno. Se busc
 
 # **Listas de Tecnologías**
 
-![java](JavaScript.svg)
+![java](/Images/JavaScript.svg)
 
-![html](HTML5.svg)  ![css](CSS3-1572B6.svg)
+![html](/Images/HTML5.svg)  
+![css](/Images/CSS3-1572B6.svg)
 
-![IDE](Visual_Studio_Code-0078D4.svg)
+![IDE](/Images/Visual_Studio_Code-0078D4.svg)
 
-![Logos](AdobeIllustrator-FF9A00.svg) ![Prototipos](AdobeXD-470137.svg)
+![Logos](/Images/Adobe_Illustrator-FF9A00.svg) ![Prototipos](/Images/Adobe%20_XD-470137.svg)
 
-![Documentacion](GIT-E44C30.svg)
+![Documentacion](/Images/GIT-E44C30.svg)
 
-![mysql](MySQL-005C84.svg)
+![mysql](/Images/MySQL-005C84.svg)
 
 
 # **Autores**
