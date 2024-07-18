@@ -23,3 +23,23 @@ crear una pagina web que ayude a las personas sin hogar a encontrar uno. Se busc
 - Recolectar donaciones de personas externas para poder seguir con este plan.
 - Implementar una base de datos, para la recopilación tanto de información de las personas que ayudan, así como para los usuarios que necesitan la ayuda de vivienda.
 
+# **Listas de Tecnologías**
+
+![java](JavaScript.svg)
+
+![html](HTML5.svg)  ![css](CSS3-1572B6.svg)
+
+![IDE](Visual_Studio_Code-0078D4.svg)
+
+![Logos](AdobeIllustrator-FF9A00.svg) ![Prototipos](AdobeXD-470137.svg)
+
+![Documentacion](GIT-E44C30.svg)
+
+![mysql](MySQL-005C84.svg)
+
+
+# **Autores**
+- **Vargas Galindo Guadalupe Idai** [@IdaiVG](https://github.com/IdaiVG)
+- **Baldera Gomez Dulce** [@DulceBal](https://github.com/DulceBal).
+- **Rufino Mendoza Ángel de Jesús** [@RufinoAngel](https://github.com/RufinoAngel)
+- **Ocpaco Dolores Antonio** [@ANTONIOOCPACODOLORES](https://github.com/ANTONIOOCPACODOLORES)git
