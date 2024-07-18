@@ -3,15 +3,15 @@
 En esta sección se encontrarán los archivos del código fuente de la interfaz de usuario de la aplicación, aquellos que permiten la interacción del usuario con la aplicación a través del navegador. Estos archivos incluyen el marcado con HTML, los estilos con CSS y el código con JavaScript que maneja la lógica en el cliente, también contamos con el apartado de Assets para recabar todos los recuros gráficos. 
 
 ## Estructura de Archivos
-Integradora-HOPE/
-├── BackEnd/
-├── Database
-├── FrontEnd
-│ └── Assets
-│ └── CSS
-│ └── HTML
-│ └── JS
-└── Documentation
+Integradora-HOPE/<br>
+├── BackEnd/<br>
+├── Database<br>
+├── FrontEnd <br>
+│ └── Assets<br>
+│ └── CSS <br>
+│ └── HTML <br>
+│ └── JS <br>
+└── Documentation <br>
 
 
 ## Equipo de Desarollo
