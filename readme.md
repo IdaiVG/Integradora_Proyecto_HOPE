@@ -24,17 +24,31 @@ crear una pagina web que ayude a las personas sin hogar a encontrar uno. Se busc
 - Implementar una base de datos, para la recopilación tanto de información de las personas que ayudan, así como para los usuarios que necesitan la ayuda de vivienda.
 
 # **Listas de Tecnologías**
+<p align = "justify">JavaScript, permite dar un mejor formato a la página web, agregandole más interactividad.</p><br>
 
 ![java](/Images/JavaScript.svg)
 
-![html](/Images/HTML5.svg)  
+<p align = "justify">HTML nos permite la creación del código fuente de la página web.</p><br>
+
+![html](/Images/HTML5.svg) 
+
+<p align = "justify">CSS nos permite dar formato al codigo fuente, desde colores hasta tipo de fuente.</p><br>
+
 ![css](/Images/CSS3-1572B6.svg)
+
+<p align = "justify">Visual studio code, nos permite la creación de nuestra página web mediante HTML y CSS..</p><br>
 
 ![IDE](/Images/Visual_Studio_Code-0078D4.svg)
 
+<p align = "justify">Adobe Illustrator nos permite la creación de logotipos y adobe XD nos permite la creación de nuestros mapas de sitio para tener una mejor visión de nuestra página.</p><br>
+
 ![Logos](/Images/Adobe_Illustrator-FF9A00.svg) ![Prototipos](/Images/Adobe%20_XD-470137.svg)
 
+<p align = "justify">Git nos permite subir repositorios donde contenga toda nuestra información en una plataforma digital.</p><br>
+
 ![Documentacion](/Images/GIT-E44C30.svg)
+
+<p align = "justify">MySQL nos permite la creación de una base de datos, donde serán guardados cada uno de los datos ingresados por el usuario..</p><br>
 
 ![mysql](/Images/MySQL-005C84.svg)
 
