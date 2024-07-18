@@ -1,4 +1,4 @@
-## **Manual de Instalación**
+## **Manual de Desinstalación**
 **Indice**
 1. Introducción.
 2. Objetivo.
