@@ -1,3 +1,7 @@
+# Documentation ![PHP](https://img.shields.io/badge/Markdown-000000?styke=for-the-bodge&logo=markdown&logoColor=white)
+
+<p align = "justify">En esta sección se ubicaran los archivos que respalda el análisis previo al diseño de la aplicación</p>
+
 ## Estructura de Archivos
 Integradora-HOPE/<br>
 ├── BackEnd/<br>

@@ -1,7 +1,5 @@
 # **Identidad Gráfica**
-![logotipo de la Esperanza](https://github.com/IdaiVG/Proyecto_HOPE/blob/main/Logo_Hope.jpg)
-
-![logotipo de la Esperanza](https://github.com/IdaiVG/Proyecto_HOPE_empresa /blob/main/Logo_Hope.jpg)
+![logotipo de la Esperanza](/Images/Logo_Hope.jpg) 
 
 
 # **Problematica**
