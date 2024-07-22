@@ -1,5 +1,7 @@
 **MOCKUPS**
+
 **¿Qué son los Mockups?**
+
 Un mockup, traducido del inglés como bosquejo, es un fotomontaje a través del cual los diseñadores gráficos pueden presentar sus propuestas a los clientes.
 
 Mis Mockups.
