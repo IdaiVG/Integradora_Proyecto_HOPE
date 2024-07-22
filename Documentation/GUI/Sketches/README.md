@@ -2,12 +2,12 @@
 
 **Previa visualización sobre la interfaz de usuario u administradores sobre el proyecto.**
 
-**Sketch 1: panel administrador.**
+**Sketch 1: Panel administrador.**
 
 Pagina de inicio: estadísticas como número de camas ocupadas, capacidad, y próximos eventos, numero de usuario y posibles donaciones.
 Menú lateral: Acceso rápido a secciones como Residentes, Recursos, Programas, Personal.
 
-**Sketch 2: calendario de eventos.**
+**Sketch 2: Calendario de eventos.**
 
 Calendario: Vista mensual con eventos como talleres, sesiones educativas, eventos comunitarios, avisos u actualizaciones.
 Detalles sobre eventos: horarios, información detallada, ubicaciones, etc.
